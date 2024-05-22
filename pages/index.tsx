@@ -4,9 +4,10 @@ export { default } from "@src/screens/HomeScreen/HomeScreen";
 
 export async function getStaticProps() {
   const posts = await PostsService().getAll()
-  console.log(posts);
 
   return {
-    props: await withTemplateConfig({}),
+    props: await withTemplateConfig({
+      posts
+    }),
   };
 }

@@ -1,9 +1,9 @@
 ---
-date: 2024-05-22
+date: 2023-02-16
 image: https://source.unsplash.com/random/800x600
-title: "Menu novo emprego na empresa X"
+title: "Menu novo emprego na empresa Y"
 url: https://www.linkedin.com/in/shinodalabs
-excerpt: "Et aliqua ipsum ad incididunt fugiat. Qui anim cillum eu in"
+excerpt: "Id nostrud sint exercitation aliqua occaecat."
 tags:
   - emprego-novo
   - empresa-x
