@@ -1,0 +1,11 @@
+site:
+  title: "Rodrigo Shinoda - Timeline"
+  description: "Bem vindo a minha timeline pessoal"
+personal:
+  name: "Rodrigo Shinoda"
+  avatar: "https://github.com/rodrigordgfs.png"
+  socialNetworks:
+    youtube: https://www.youtube.com/
+    github: https://github.com/rodrigordgfs
+    linkedin: https://www.linkedin.com/in/shinodalabs
+    twitter: https://twitter.com/rodrigordgfs
